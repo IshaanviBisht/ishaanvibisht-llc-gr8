@@ -4,8 +4,7 @@ body {
     font-size: 20px;
     color: #333;
     padding: 10px;
-    cursor: url('images/cursor/cursor1.png'), auto;
-    cursor: url('images/cursor/cursor2.png'), pointer;
+    cursor: url('images/cursor/cursor2.png'), auto;
 }
 
 .container1 {
